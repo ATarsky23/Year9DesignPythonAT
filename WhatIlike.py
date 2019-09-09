@@ -1,0 +1,7 @@
+print("Sports")
+print("Steak")
+print("Family")
+print("Dogs")
+print("Weekends")
+print("Books")
+print("Music")
